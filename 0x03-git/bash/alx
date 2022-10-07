@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/update_script
-#!bin/bash
+#!/bin/bash
+ALX School
